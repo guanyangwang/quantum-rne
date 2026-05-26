@@ -1,6 +1,6 @@
 # Quantum RNE Empirical Scaling Experiments
 
-This repository contains numerical experiments for **"Optimal Quantum Speedups for Repeatedly Nested Expectation Estimation"**.
+This repository contains numerical experiments for **"Optimal Quantum Speedups for Repeatedly Nested Expectation Estimation"** (ICML 2026).
 
 The main notebook, `scaling_experiments.ipynb`, provides two empirical checks:
 
